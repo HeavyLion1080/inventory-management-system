@@ -24,9 +24,9 @@ This project demonstrates practical backend development skills including CRUD op
 
 ```
 inventory-management-system/
-├── inventory.py # Main application
-├── README.md # Project documentation
-└── .gitignore # Git ignore rules
+├── inventory.py
+├── README.md 
+└── .gitignore
 ```
 
 > The SQLite database file (`inventory.db`) is created automatically at runtime and is excluded from version control.
